@@ -8,4 +8,3 @@ Hi, I am qiy2019!!
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=qiy2019&border_radius=15&theme=radical)](https://git.io/streak-stats)
 ![trophy](https://github-profile-trophy.vercel.app/?username=qiy2019)
-![trophy](https://github-profile-trophy.vercel.app/?username=qingy2019)
