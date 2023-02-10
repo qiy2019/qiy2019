@@ -1,6 +1,6 @@
 # Hello!! 👋
 
-Hi, I am qiy2019!!
+![Vanilla-1s-280px (1)](https://user-images.githubusercontent.com/66195939/218022822-359a8fdf-7be8-4d87-a0e0-5ea1e9155191.gif)
 ----
 ![](https://komarev.com/ghpvc/?username=qiy2019&color=f772e3)
 
